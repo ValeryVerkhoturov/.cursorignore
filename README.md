@@ -1,0 +1,2 @@
+# .cursorignore
+My .cursorignore file
